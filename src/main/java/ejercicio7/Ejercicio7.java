@@ -46,9 +46,6 @@ public class Ejercicio7 extends JFrame {
 		contentPane.setBorder(new EmptyBorder(5, 5, 5, 5));
 		setVisible(true);
 
-		/**
-		 * Boton Bienvenida
-		 */
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 
