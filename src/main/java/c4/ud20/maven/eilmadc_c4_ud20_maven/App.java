@@ -32,7 +32,7 @@ public class App {
 	public static void main(String[] args) {
 		// TODO: hacer Switch case control Ejercicio 1 a 5
 		// Muestra el menu mediante poantalla y dialog
-		utils.mostrarPrograma("UNIDAD 19 : SWING-AWT");
+		utils.mostrarPrograma("UNIDAD 20 :MAVEN");
 		imprimeMenuPrincipal();
 	}
 
