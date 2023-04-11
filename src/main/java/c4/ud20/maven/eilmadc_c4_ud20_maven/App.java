@@ -48,9 +48,9 @@ public class App {
 		do {
 
 			// Pide numero de opcion de MENU mediante dialog
-			opcion = utils.pideInt(mensaje, "UD19");
+			opcion = utils.pideInt(mensaje, "UD20:MAVEN ");
 
-		} while (opcion > 5);
+		} while (opcion > 9);
 
 		verificaOpcionPrincipal(opcion);
 
