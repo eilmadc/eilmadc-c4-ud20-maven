@@ -4,9 +4,6 @@ package c4.ud20.maven.eilmadc_c4_ud20_maven;
 * C02 - UD19 - Elena López
 */
 
-
-import java.util.Scanner;
-
 import ejercicio1.Ejercicio1;
 import ejercicio2.Ejercicio2;
 import ejercicio3.Ejercicio3;

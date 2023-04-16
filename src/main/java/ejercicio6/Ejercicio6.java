@@ -30,7 +30,7 @@ public class Ejercicio6 extends JFrame {
 	 * 
 	 */
 	public Ejercicio6() {
-		setTitle("EJERCICIO 5: IMC Calc");
+		setTitle("EJERCICIO 6: IMC Calc");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 402, 232);
 		contentPane = new JPanel();
